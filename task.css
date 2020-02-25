@@ -792,6 +792,8 @@ img.hover-shadow {
   border-width: 2px;
   font-color: #989898;
   font-family: Work Sans;
+  
+  color: rgba(191, 191, 191,0.9);
   border-radius: 20px;
   opacity: .6;
 }
@@ -802,6 +804,7 @@ img.hover-shadow {
   border-width: 2px;
   font-color: #989898;
   font-family: Work Sans;
+  color: rgba(191, 191, 191,0.9);
   border-radius: 20px;
     opacity: .6;
 }
