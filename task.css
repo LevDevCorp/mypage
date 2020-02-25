@@ -476,6 +476,14 @@ article.newcard:hover .infos .seats, article.newcard:hover .infos .txt, article.
   border:#B8EDF8 solid 2px;
 }
 
+
+@media screen and (max-width: 900px) {
+    .namushevrebi-page-gallery img{
+      min-height: 100px;
+      max-height: 100px;
+    }
+  }
+
 .namushevrebi-page-gallery{
   /* margin-right: 20px;
   margin-bottom: 20px; */
