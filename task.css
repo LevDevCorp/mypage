@@ -320,10 +320,14 @@ article.newcard {
   display: inline-block;
 }
 
+@media screen and (max-width:1200px) {
+    article.newcard{
+      max-width:200px;
+    }
+  }
 
 
-
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 991px) {
     article.newcard{
       max-width:1600px;
     }
